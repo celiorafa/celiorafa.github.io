@@ -2,9 +2,12 @@ body{
 	background-color: #f9efe5;
 }
 
+
 #topo{
+	padding-top: 40px;
+	padding-left:350px;
 	background-color: #f6e5d5;
-	width: 90%;
+	width:70;
 	height: 400px;
 	margin-left: 5%;
 	margin-right: 5%;
@@ -13,12 +16,12 @@ body{
  	background-position: left;
  	background-size: contain;
  	text-align: center;
- 	padding-top: 40px;
-	padding-left:50px;
+
+
 }
 
 #hello{
-	color:  #709cb5;
+	color:  #191970;
 	font-family: 'Encode Sans SC', sans-serif;
 	font-size: 20px;
 	font-weight: bolder;
@@ -26,7 +29,7 @@ body{
 }
 
 #estudante{
-	color:  #709cb5;
+	color:  #191970;
 	font-family: 'Encode Sans SC', sans-serif;
 	font-size: 20px;
 
@@ -45,7 +48,7 @@ body{
 	margin-left: 5%;
 	margin-right: 5%;
  	text-align: center;
- 	padding-top: 10px;
+ 	padding-top: 30px;
  	color:  #446d85;
 	font-family: 'Encode Sans SC', sans-serif;
 	font-size: 30px;
