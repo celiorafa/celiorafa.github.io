@@ -1,19 +1,51 @@
-#div1{
-	margin: 50px;
-	padding: 20px;
-	background-color: #B0E0E6;
-	font-family: 'Tourney', cursive;
-
-}
-#div2{
-	margin: 50px;
-	padding: 10px;
-	background-color: #E0FFFF;
-	font-family: 'Lobster', cursive;
-	font-size: 25px;
-
-}
-
 body{
-	background-color: #F0FFF0;
+	background-color: #f9efe5;
+}
+
+#topo{
+	background-color: #f6e5d5;
+	width: 80%;
+	height: 400px;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url(./img/BG1.png);
+	background-repeat: no-repeat;
+ 	background-position: left;
+ 	background-size: contain;
+ 	text-align: center;
+ 	padding-top: 40px;
+}
+
+#hello{
+	color:  #709cb5;
+	font-family: 'Encode Sans SC', sans-serif;
+	font-size: 20px;
+	font-weight: bolder;
+
+}
+
+#estudante{
+	color:  #709cb5;
+	font-family: 'Encode Sans SC', sans-serif;
+	font-size: 20px;
+
+}
+
+#nome{
+	color:  darkblue;
+	font-family: 'Otomanopee One', sans-serif;
+	font-size: 40px;
+}
+
+#conteudo{
+	background-color: #f6e5d5;
+	width: 80%;
+	height: 200px;
+	margin-left: 10%;
+	margin-right: 10%;
+ 	text-align: center;
+ 	padding-top: 10px;
+ 	color:  #446d85;
+	font-family: 'Encode Sans SC', sans-serif;
+	font-size: 30px;
 }
