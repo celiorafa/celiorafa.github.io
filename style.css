@@ -39,16 +39,17 @@ body{
 	color:  darkblue;
 	font-family: 'Otomanopee One', sans-serif;
 	font-size: 40px;
+	text-shadow: 5px 5px 10px gray;
 }
 
 #conteudo{
 	background-color: #f6e5d5;
 	width: 90%;
-	height: 200px;
+	/*height: 200px;*/
 	margin-left: 5%;
 	margin-right: 5%;
- 	text-align: center;
- 	padding-top: 30px;
+ 	/*text-align: center;*/
+ 	padding-top: 10px;
  	color:  #446d85;
 	font-family: 'Encode Sans SC', sans-serif;
 	font-size: 30px;
